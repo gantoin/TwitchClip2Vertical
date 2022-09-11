@@ -1,6 +1,8 @@
 # Twitch clips to vertical video (for TikTok, Youtube Shorts, etc.)
 🤖 IA which creates automatically vertical content from a twitch clip
 
+![](demo.png)
+
 ⚠️ Important: This is a work in progress, and the code is not yet ready for production.
 
 ⚠️ Important 2: The clips need to be in this kind of format → fixed webcam with only one face and a game or other activity.
