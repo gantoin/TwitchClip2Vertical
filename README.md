@@ -1,5 +1,5 @@
 # Twitch clips to vertical video (for TikTok, Youtube Shorts, etc.)
-🤖 IA which creates automatically vertical content from a twitch clip
+🤖 IA which creates automatically vertical content from a twitch clip (works with OpenCV face detection, ffmpeg & imagemagick)
 
 ![](demo.png)
 
