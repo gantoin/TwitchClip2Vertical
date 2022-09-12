@@ -27,6 +27,8 @@ pip install -r requirements.txt
 
 Program works with python 3.8
 
+Install [Imagemagick](https://imagemagick.org/script/install-source.php) & [Ffmpeg](https://ffmpeg.org/download.html).
+
 Then, you need to fill the resources/clips.txt file with the twitch clips you want to convert :
 ```bash
 https://clips.twitch.tv/.../...
