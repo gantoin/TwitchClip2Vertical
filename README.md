@@ -38,7 +38,8 @@ https://clips.twitch.tv/.../...
 
 Finally, you can run the script :
 ```bash
-python3 main.py
+chmod a+x clip-gen.py
+./clip-gen.py
 ```
 
 Your videos will be in the folder resources/faces_videos.
