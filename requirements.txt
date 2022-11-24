@@ -5,6 +5,6 @@ numpy==1.23.4
 tqdm==4.64.1
 pandas==1.5.2
 requests==2.28.1
-urllib3==1.26.12
+urllib3==1.26.13
 colorama==0.4.6
 config==0.5.1
